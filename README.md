@@ -4,8 +4,8 @@
 
 This project is a Streamlit application hosted on Hugging Face. You can interact with the live model and view the presentation by clicking the link below:
 
-### 🚀 [Click Here to View the Live App](https://huggingface.co/spaces/Devarahaasan/Telecom-AI-Brand-Intelligence)
 
+## 🚀 [Experience the Live AI Application Here](https://huggingface.co/spaces/Devarahaasan/Telecom-AI-Brand-Intelligence)
 ---
 **Note:** Since the model file is large (671 MB), the app is hosted on Hugging Face Spaces for better performance and accessibility.
 
